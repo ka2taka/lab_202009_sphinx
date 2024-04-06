@@ -11,4 +11,5 @@ Qiitaに投稿したShinxの手順のサンプルコードです。
 ##### paragraph
 - aa
 - aa
-    - bb
+  - bb
+	- bb
