@@ -12,4 +12,4 @@ Qiitaに投稿したShinxの手順のサンプルコードです。
 - aa
 - aa
   - bb
-	- bb
+- bb
